@@ -21,3 +21,15 @@ Rewriting the variable-exponent feedback generator $f(x) = x^{1/x - 1}$ in logar
 ```bash
 pip install -r requirements.txt
 pytest -v test_paper4.py
+```
+
+## Citation
+@article{gray2026chiral,
+  author  = {Gray, Benjamin Edward},
+  title   = {Self-Confined Prime-Scattering Dynamics on $L^2(\mathbb{R})$ and Chiral Bilayer Pairing},
+  year    = {2026},
+  publisher = {Zenodo},
+  version = {1.0.0},
+  doi     = {10.5281/zenodo.24598797},
+  url     = {https://github.com/graybenjamin217-lang/chiral-bilayer-pairing}
+}
