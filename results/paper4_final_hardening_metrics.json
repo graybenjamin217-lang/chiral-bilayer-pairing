@@ -1,0 +1,184 @@
+{
+  "paper": "Paper 4 \u2014 Self-Confined Prime-Scattering Dynamics and Chiral Bilayer Pairing",
+  "k5_convergence": {
+    "Decaying Bumps f_p(y)": {
+      "TRI": {
+        "[5, 13)": {
+          "r_M55": 0.50442,
+          "r_M75": 0.50035,
+          "drift": -0.00407,
+          "n_spacings_M75": 269
+        },
+        "[13, 21)": {
+          "r_M55": 0.49583,
+          "r_M75": 0.49163,
+          "drift": -0.00419,
+          "n_spacings_M75": 356
+        },
+        "[21, 29)": {
+          "r_M55": 0.43956,
+          "r_M75": 0.45946,
+          "drift": 0.0199,
+          "n_spacings_M75": 415
+        }
+      },
+      "GUE": {
+        "[5, 13)": {
+          "r_M55": 0.60321,
+          "r_M75": 0.60253,
+          "drift": -0.00067,
+          "n_spacings_M75": 270
+        },
+        "[13, 21)": {
+          "r_M55": 0.57375,
+          "r_M75": 0.57532,
+          "drift": 0.00157,
+          "n_spacings_M75": 356
+        },
+        "[21, 29)": {
+          "r_M55": 0.50767,
+          "r_M75": 0.52688,
+          "drift": 0.01921,
+          "n_spacings_M75": 415
+        }
+      }
+    },
+    "Quasiperiodic cos(y ln p)": {
+      "TRI": {
+        "[5, 13)": {
+          "r_M55": 0.541,
+          "r_M75": 0.54107,
+          "drift": 7e-05,
+          "n_spacings_M75": 253
+        },
+        "[13, 21)": {
+          "r_M55": 0.54066,
+          "r_M75": 0.51669,
+          "drift": -0.02398,
+          "n_spacings_M75": 345
+        },
+        "[21, 29)": {
+          "r_M55": 0.52764,
+          "r_M75": 0.51631,
+          "drift": -0.01133,
+          "n_spacings_M75": 413
+        }
+      },
+      "GUE": {
+        "[5, 13)": {
+          "r_M55": 0.58767,
+          "r_M75": 0.57171,
+          "drift": -0.01596,
+          "n_spacings_M75": 252
+        },
+        "[13, 21)": {
+          "r_M55": 0.57926,
+          "r_M75": 0.60238,
+          "drift": 0.02312,
+          "n_spacings_M75": 346
+        },
+        "[21, 29)": {
+          "r_M55": 0.56447,
+          "r_M75": 0.6257,
+          "drift": 0.06122,
+          "n_spacings_M75": 409
+        }
+      }
+    },
+    "Feedback-Cos f(1+0.65cos)-0.8": {
+      "TRI": {
+        "[5, 13)": {
+          "r_M55": 0.50604,
+          "r_M75": 0.51519,
+          "drift": 0.00915,
+          "n_spacings_M75": 252
+        },
+        "[13, 21)": {
+          "r_M55": 0.52555,
+          "r_M75": 0.51723,
+          "drift": -0.00832,
+          "n_spacings_M75": 347
+        },
+        "[21, 29)": {
+          "r_M55": 0.54035,
+          "r_M75": 0.5242,
+          "drift": -0.01615,
+          "n_spacings_M75": 416
+        }
+      },
+      "GUE": {
+        "[5, 13)": {
+          "r_M55": 0.59782,
+          "r_M75": 0.60636,
+          "drift": 0.00854,
+          "n_spacings_M75": 252
+        },
+        "[13, 21)": {
+          "r_M55": 0.60039,
+          "r_M75": 0.59884,
+          "drift": -0.00155,
+          "n_spacings_M75": 349
+        },
+        "[21, 29)": {
+          "r_M55": 0.61525,
+          "r_M75": 0.583,
+          "drift": -0.03225,
+          "n_spacings_M75": 414
+        }
+      }
+    }
+  },
+  "shear_drag_scaling_k2_to_k6": [
+    {
+      "k": 2,
+      "d": 3,
+      "ln_Nk": 1.7918,
+      "gap_g0": 1.84534,
+      "gap_g15": 1.81814,
+      "commutator_drag": 2.69454,
+      "drag_over_sqrt_k": 1.90533,
+      "mean_abs_krein_shift": 0.215
+    },
+    {
+      "k": 3,
+      "d": 7,
+      "ln_Nk": 3.4012,
+      "gap_g0": 1.85426,
+      "gap_g15": 1.82527,
+      "commutator_drag": 3.24783,
+      "drag_over_sqrt_k": 1.87513,
+      "mean_abs_krein_shift": 0.2425
+    },
+    {
+      "k": 4,
+      "d": 15,
+      "ln_Nk": 5.3471,
+      "gap_g0": 1.8539,
+      "gap_g15": 1.62196,
+      "commutator_drag": 3.7611,
+      "drag_over_sqrt_k": 1.88055,
+      "mean_abs_krein_shift": 0.28133
+    },
+    {
+      "k": 5,
+      "d": 31,
+      "ln_Nk": 7.745,
+      "gap_g0": 1.83642,
+      "gap_g15": 1.38569,
+      "commutator_drag": 4.20994,
+      "drag_over_sqrt_k": 1.88274,
+      "mean_abs_krein_shift": 0.30347
+    },
+    {
+      "k": 6,
+      "d": 63,
+      "ln_Nk": 10.31,
+      "gap_g0": 1.84518,
+      "gap_g15": 1.39229,
+      "commutator_drag": 4.43077,
+      "drag_over_sqrt_k": 1.80885,
+      "mean_abs_krein_shift": 0.31897
+    }
+  ],
+  "total_runtime_sec": 137.86
+}
