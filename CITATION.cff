@@ -1,1 +1,51 @@
-Gray, B. E. (2026). Self-Confined Prime-Scattering Dynamics on $L^2(\mathbb{R})$ and Chiral Bilayer Pairing. Zenodo. https://doi.org/10.5281/zenodo.24598797
+cff-version: 1.2.0
+message: "If you use this software or manuscript, please cite it using the metadata from this file."
+type: software
+title: "Self-Confined Prime-Scattering Dynamics on L^2(R) and Chiral Bilayer Pairing"
+version: "1.0.0"
+date-released: 2026-11-27
+license: PolyForm-Noncommercial-1.0.0
+repository-code: "https://github.com/graybenjamin217-lang/chiral-bilayer-pairing"
+authors:
+  - family-names: "Gray"
+    given-names: "Benjamin Edward"
+    email: "graybenjamin217@gmail.com"
+    affiliation: "Independent Researcher, Missouri, USA"
+keywords:
+  - "primorial dilation operator"
+  - "variable-exponent feedback operator"
+  - "self-confined continuum operators"
+  - "quantum chaos"
+  - "spectral form factor"
+  - "Jackiw-Rebbi zero modes"
+  - "chiral bilayer pairing"
+  - "noncommutative geometry"
+preferred-citation:
+  type: article
+  title: "Self-Confined Prime-Scattering Dynamics on L^2(R) and Chiral Bilayer Pairing"
+  authors:
+    - family-names: "Gray"
+      given-names: "Benjamin Edward"
+  year: 2026
+references:
+  - type: article
+    title: "The Variable-Exponent Feedback Operator and Its Odd Extension on Unital C*-Algebras"
+    authors:
+      - family-names: "Gray"
+        given-names: "Benjamin Edward"
+    year: 2026
+    doi: "10.5281/zenodo.24445638"
+  - type: article
+    title: "Spectral Theory of the Primorial-Modulated Dilation Operator on Continuous-Discrete Fiber Spaces"
+    authors:
+      - family-names: "Gray"
+        given-names: "Benjamin Edward"
+    year: 2026
+    doi: "10.5281/zenodo.22899830"
+  - type: article
+    title: "The Primorial-Feedback Bridge: Super-Gaussian Resolvent Lifting, Spectral Counting, and Fredholm-Module Compression for the Primorial-Modulated Dilation Operator"
+    authors:
+      - family-names: "Gray"
+        given-names: "Benjamin Edward"
+    year: 2026
+    doi: "10.5281/zenodo.24507932"
