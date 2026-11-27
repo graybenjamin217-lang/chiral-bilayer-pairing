@@ -1,7 +1,7 @@
 
 * **Copyright:** (c) 2026 Benjamin Edward Gray
 * **Repository:** https://github.com/graybenjamin217-lang/chiral-bilayer-pairing
-* **Accompanying Preprint:**
+* **Accompanying Preprint:** https://doi.org/10.5281/zenodo.24598797
 * **Commercial Licensing Inquiries:** graybenjamin217@gmail.com
 * **SPDX Identifier:** [PolyForm-Noncommercial-1.0.0](https://spdx.org/licenses/PolyForm-Noncommercial-1.0.0.html)
 
